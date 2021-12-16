@@ -1,1 +1,1 @@
-# Titanic-survival-prediction-using-Python-ML-algorithms-A
+# Titanic-survival-prediction-using-Python-ML-algorithms
